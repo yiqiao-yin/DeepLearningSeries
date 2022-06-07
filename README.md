@@ -13,3 +13,9 @@ pip install git+https://github.com/yiqiao-yin/DeepLearningSeries.git
 # from python notebook
 !pip install git+https://github.com/yiqiao-yin/DeepLearningSeries.git
 ```
+
+
+```
+# import
+from DeepLearning.modules import DL
+```
